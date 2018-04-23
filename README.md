@@ -1,2 +1,2 @@
 # Zener
-This artificial interligence use Zener's card to make predictions. 
+This artificial interligence use Zener's cards to make predictions. 
